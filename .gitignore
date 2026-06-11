@@ -10,6 +10,9 @@
 ~$*.xlsx
 ~$*.docx
 
+# Scoring spreadsheet stays local + Google Drive only, never published in repo
+*.xlsx
+
 # Python
 __pycache__/
 *.pyc

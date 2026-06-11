@@ -8,12 +8,12 @@ A private World Cup 2026 prediction & fantasy league. Single commissioner runs t
 |---|---|
 | [WC_ANG_TRD.md](WC_ANG_TRD.md) | Locked Technical Requirements Document (v1.0) |
 | `WC_ANG_TRD.docx` | Original prompt-template (historical reference) |
-| `wc_ang_06_10_mvp_v2.xlsx` | Scoring engine — the live spreadsheet (upload to Google Sheets) |
-| `wc_ang_06_10_fixed.xlsx` | Earlier draft, kept for comparison |
 | `index.html` | Landing page |
 | `style.css` | Page styles |
 | `app.js` | Fetches CSV, renders leaderboard |
 | `config.js` | Holds the published CSV URL — edit this |
+
+The scoring spreadsheet (`wc_ang_06_10_mvp_v2.xlsx`) is intentionally **not** committed — it lives in the commissioner's local folder and on Google Drive. Treating it as out-of-band keeps the game logic private even though the site is public.
 
 ## One-time setup
 
