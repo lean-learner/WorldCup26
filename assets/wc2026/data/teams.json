@@ -259,7 +259,7 @@
     "zh-TW": "波士尼亞與赫塞哥維納"
    },
    "iso2": "BA",
-   "ranking": 64,
+   "ranking": 63,
    "rankingPrev": 64,
    "baseCamp": {
     "city": "Sandy",
@@ -351,7 +351,7 @@
     "zh-TW": "加拿大"
    },
    "iso2": "CA",
-   "ranking": 30,
+   "ranking": 31,
    "rankingPrev": 30,
    "baseCamp": {
     "city": "Vancouver",
@@ -1179,7 +1179,7 @@
     "zh-TW": "約旦"
    },
    "iso2": "JO",
-   "ranking": 63,
+   "ranking": 64,
    "rankingPrev": 63,
    "baseCamp": {
     "city": "Portland",
@@ -1501,7 +1501,7 @@
     "zh-TW": "挪威"
    },
    "iso2": "NO",
-   "ranking": 31,
+   "ranking": 30,
    "rankingPrev": 31,
    "baseCamp": {
     "city": "Greensboro",
@@ -1637,7 +1637,7 @@
     "zh-TW": "巴拉圭"
    },
    "iso2": "PY",
-   "ranking": 40,
+   "ranking": 42,
    "rankingPrev": 41,
    "baseCamp": {
     "city": "San Jose",
@@ -1820,7 +1820,7 @@
     "uk": "Шотландія"
    },
    "iso2": "GB-SCT",
-   "ranking": 41,
+   "ranking": 40,
    "rankingPrev": 42,
    "baseCamp": {
     "city": "Charlotte",
@@ -1866,7 +1866,7 @@
     "zh-TW": "塞內加爾"
    },
    "iso2": "SN",
-   "ranking": 15,
+   "ranking": 16,
    "rankingPrev": 15,
    "baseCamp": {
     "city": "New Brunswick",
@@ -2096,7 +2096,7 @@
     "zh-TW": "烏拉圭"
    },
    "iso2": "UY",
-   "ranking": 16,
+   "ranking": 17,
    "rankingPrev": 16,
    "baseCamp": {
     "city": "Playa del Carmen",
@@ -2142,7 +2142,7 @@
     "zh-TW": "美國"
    },
    "iso2": "US",
-   "ranking": 17,
+   "ranking": 15,
    "rankingPrev": 17,
    "baseCamp": {
     "city": "Irvine",
