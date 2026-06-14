@@ -1,0 +1,90 @@
+[
+  {
+    "away_team": "PAR",
+    "display_name": "Abrham",
+    "group": "A",
+    "home_team": "USA",
+    "match_id": "sample-1",
+    "match_number": 1,
+    "prediction": "away",
+    "stage": "Group stage",
+    "updated_at": "2026-06-13T05:05:30.244487+00:00"
+  },
+  {
+    "away_team": "PAR",
+    "display_name": "Salim New",
+    "group": "A",
+    "home_team": "USA",
+    "match_id": "sample-1",
+    "match_number": 1,
+    "prediction": "away",
+    "stage": "Group stage",
+    "updated_at": "2026-06-13T05:06:00.966651+00:00"
+  },
+  {
+    "away_team": "TUR",
+    "display_name": "Salim New",
+    "group": "D",
+    "home_team": "AUS",
+    "match_id": "400021463",
+    "match_number": 6,
+    "prediction": "away",
+    "stage": "group",
+    "updated_at": "2026-06-14T02:22:56.051995+00:00"
+  },
+  {
+    "away_team": "ECU",
+    "display_name": "Salim New",
+    "group": "E",
+    "home_team": "CIV",
+    "match_id": "400021467",
+    "match_number": 9,
+    "prediction": "home",
+    "stage": "group",
+    "updated_at": "2026-06-14T02:07:50.964633+00:00"
+  },
+  {
+    "away_team": "CUW",
+    "display_name": "Abrham",
+    "group": "E",
+    "home_team": "GER",
+    "match_id": "400021464",
+    "match_number": 10,
+    "prediction": "home",
+    "stage": "group",
+    "updated_at": "2026-06-14T02:29:55.979853+00:00"
+  },
+  {
+    "away_team": "CUW",
+    "display_name": "Salim New",
+    "group": "E",
+    "home_team": "GER",
+    "match_id": "400021464",
+    "match_number": 10,
+    "prediction": "home",
+    "stage": "group",
+    "updated_at": "2026-06-14T02:23:14.279119+00:00"
+  },
+  {
+    "away_team": "JPN",
+    "display_name": "Salim New",
+    "group": "F",
+    "home_team": "NED",
+    "match_id": "400021470",
+    "match_number": 11,
+    "prediction": "away",
+    "stage": "group",
+    "updated_at": "2026-06-14T02:07:03.708461+00:00"
+  },
+  {
+    "away_team": "TUN",
+    "display_name": "Salim New",
+    "group": "F",
+    "home_team": "SWE",
+    "match_id": "400021474",
+    "match_number": 12,
+    "prediction": "home",
+    "stage": "group",
+    "updated_at": "2026-06-14T02:16:57.421314+00:00"
+  }
+]

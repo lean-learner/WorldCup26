@@ -6,6 +6,7 @@ export function getSiteConfig(rawConfig = window.WC_ANG_CONFIG || {}) {
     theme: rawConfig.theme || rawConfig.THEME || "",
     tournamentName: rawConfig.tournamentName || rawConfig.TOURNAMENT_NAME || "",
     leaderboardCsvUrl: rawConfig.leaderboardCsvUrl || rawConfig.LEADERBOARD_CSV_URL || "",
+    predictionsJsonUrl: rawConfig.predictionsJsonUrl || rawConfig.PREDICTIONS_JSON_URL || "",
     resultsCsvUrl: rawConfig.resultsCsvUrl || rawConfig.RESULTS_CSV_URL || "",
     resultsLimit: Number(rawConfig.resultsLimit || rawConfig.RESULTS_LIMIT || DEFAULT_RESULTS_LIMIT),
   };
