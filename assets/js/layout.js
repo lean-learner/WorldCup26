@@ -21,7 +21,6 @@ export function renderLeagueLayout(config) {
         </a>
         <ul class="nav-links">
           <li><a href="#leaderboard">Standings</a></li>
-          <li><a href="#predictions">Picks</a></li>
           <li><a href="#results">Results</a></li>
           <li><a href="#rules">Rules</a></li>
           <li><a href="#faq">FAQ</a></li>
@@ -79,24 +78,6 @@ export function renderLeagueLayout(config) {
             <tbody id="board-body"></tbody>
           </table>
         </div>
-      </div>
-    </section>
-
-    <section class="section section-light" id="predictions">
-      <div class="container">
-        <div class="section-head">
-          <p class="eyebrow">From the bot</p>
-          <h2 class="section-title">Latest Picks</h2>
-          <p class="section-sub">
-            Recent match predictions submitted through Telegram, grouped by fixture.
-          </p>
-        </div>
-
-        <div class="predictions-status" id="predictions-status" role="status">Loading latest picks...</div>
-        <div class="predictions-list" id="predictions-list" hidden></div>
-        <p class="predictions-empty" id="predictions-empty" hidden>
-          No predictions have been published yet.
-        </p>
       </div>
     </section>
 

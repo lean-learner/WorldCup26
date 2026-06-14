@@ -2,7 +2,6 @@ import { getSiteConfig, validateSiteConfig } from "./config.js";
 import { requireElement, setHidden, setStatus } from "./dom.js";
 import { renderLeagueLayout } from "./layout.js";
 import { loadLeaderboard } from "./leaderboard.js";
-import { loadPredictions } from "./predictions.js";
 import { loadResults } from "./results.js";
 import { renderWcResultsStrip } from "../wc2026/wc-results-strip.js";
 
@@ -22,7 +21,6 @@ function bootstrap() {
     }
 
     loadLeaderboard(config, elements);
-    loadPredictions(config, elements);
     loadResults(config, elements);
     loadWcResultsStrip();
   } catch (error) {
@@ -40,9 +38,6 @@ function getRequiredElements() {
     resultsStatus: requireElement("results-status"),
     resultsGrid: requireElement("results-grid"),
     resultsEmpty: requireElement("results-empty"),
-    predictionsStatus: requireElement("predictions-status"),
-    predictionsList: requireElement("predictions-list"),
-    predictionsEmpty: requireElement("predictions-empty"),
   };
 }
 
@@ -63,9 +58,6 @@ function showConfigurationError(missingConfig, elements) {
   setHidden(elements.tableWrap, true);
   setHidden(elements.resultsStatus, true);
   setHidden(elements.resultsGrid, true);
-  setHidden(elements.predictionsStatus, true);
-  setHidden(elements.predictionsList, true);
-  setHidden(elements.predictionsEmpty, true);
   elements.heroStatus.textContent = "Standings unavailable";
 }
 
