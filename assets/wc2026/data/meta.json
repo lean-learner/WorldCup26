@@ -1,5 +1,5 @@
 {
- "updatedAt": "2026-06-14T03:03:03.411Z",
+ "updatedAt": "2026-06-15T05:27:12.281Z",
  "season": "285023",
  "titleOdds": [
   {
@@ -8,11 +8,11 @@
   },
   {
    "c": "ARG",
-   "p": 17.6
+   "p": 17.8
   },
   {
    "c": "FRA",
-   "p": 13.3
+   "p": 13.5
   },
   {
    "c": "ENG",
@@ -20,20 +20,19 @@
   },
   {
    "c": "BRA",
-   "p": 5.7
+   "p": 5.6
   }
  ],
  "counts": {
   "matches": 104,
   "teams": 48,
   "squads": 48,
-  "weather": 75,
-  "lineups": 8,
+  "weather": 78,
+  "lineups": 12,
   "flags": 179
  },
  "errors": [
-  "geocode New Tecumseth: no usable result — not cached, will retry next run",
-  "probs: keepReal is not a function. (In 'keepReal(m)', 'keepReal' is \"continue\") — keeping previous file"
+  "geocode New Tecumseth: no usable result — not cached, will retry next run"
  ],
  "sources": [
   "api.fifa.com",

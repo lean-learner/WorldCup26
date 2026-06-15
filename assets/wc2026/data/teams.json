@@ -29,7 +29,7 @@
     "zh-TW": "阿爾及利亞"
    },
    "iso2": "DZ",
-   "ranking": 28,
+   "ranking": 27,
    "rankingPrev": 28,
    "baseCamp": {
     "city": "Lawrence",
@@ -121,7 +121,7 @@
     "zh-TW": "澳洲"
    },
    "iso2": "AU",
-   "ranking": 27,
+   "ranking": 23,
    "rankingPrev": 27,
    "baseCamp": {
     "city": "Oakland",
@@ -167,7 +167,7 @@
     "zh-TW": "奧地利"
    },
    "iso2": "AT",
-   "ranking": 25,
+   "ranking": 24,
    "rankingPrev": 24,
    "baseCamp": {
     "city": "Goleta",
@@ -213,7 +213,7 @@
     "zh-TW": "比利時"
    },
    "iso2": "BE",
-   "ranking": 9,
+   "ranking": 10,
    "rankingPrev": 9,
    "baseCamp": {
     "city": "Renton",
@@ -351,7 +351,7 @@
     "zh-TW": "加拿大"
    },
    "iso2": "CA",
-   "ranking": 31,
+   "ranking": 32,
    "rankingPrev": 30,
    "baseCamp": {
     "city": "Vancouver",
@@ -397,7 +397,7 @@
     "zh-TW": "象牙海岸"
    },
    "iso2": "CI",
-   "ranking": 33,
+   "ranking": 29,
    "rankingPrev": 33,
    "baseCamp": {
     "city": "Chester",
@@ -443,7 +443,7 @@
     "zh-TW": "民主剛果"
    },
    "iso2": "CD",
-   "ranking": 46,
+   "ranking": 45,
    "rankingPrev": 46,
    "baseCamp": {
     "city": "Houston",
@@ -719,7 +719,7 @@
     "zh-TW": "厄瓜多"
    },
    "iso2": "EC",
-   "ranking": 24,
+   "ranking": 28,
    "rankingPrev": 23,
    "baseCamp": {
     "city": "Columbus",
@@ -765,7 +765,7 @@
     "zh-TW": "埃及"
    },
    "iso2": "EG",
-   "ranking": 29,
+   "ranking": 30,
    "rankingPrev": 29,
    "baseCamp": {
     "city": "Spokane",
@@ -949,7 +949,7 @@
     "zh-TW": "德國"
    },
    "iso2": "DE",
-   "ranking": 10,
+   "ranking": 9,
    "rankingPrev": 10,
    "baseCamp": {
     "city": "Winston-Salem",
@@ -1501,7 +1501,7 @@
     "zh-TW": "挪威"
    },
    "iso2": "NO",
-   "ranking": 30,
+   "ranking": 31,
    "rankingPrev": 31,
    "baseCamp": {
     "city": "Greensboro",
@@ -1728,7 +1728,7 @@
     "zh-TW": "卡達"
    },
    "iso2": "QA",
-   "ranking": 50,
+   "ranking": 49,
    "rankingPrev": 56,
    "baseCamp": {
     "city": "Santa Barbara",
@@ -1820,7 +1820,7 @@
     "uk": "Шотландія"
    },
    "iso2": "GB-SCT",
-   "ranking": 37,
+   "ranking": 38,
    "rankingPrev": 42,
    "baseCamp": {
     "city": "Charlotte",
@@ -1958,7 +1958,7 @@
     "zh-TW": "瑞典"
    },
    "iso2": "SE",
-   "ranking": 39,
+   "ranking": 35,
    "rankingPrev": 38,
    "baseCamp": {
     "city": "Frisco",
@@ -2004,7 +2004,7 @@
     "zh-TW": "突尼西亞"
    },
    "iso2": "TN",
-   "ranking": 45,
+   "ranking": 56,
    "rankingPrev": 45,
    "baseCamp": {
     "city": "Monterrey",
@@ -2050,7 +2050,7 @@
     "zh-TW": "土耳其"
    },
    "iso2": "TR",
-   "ranking": 23,
+   "ranking": 26,
    "rankingPrev": 22,
    "baseCamp": {
     "city": "Mesa",
@@ -2188,7 +2188,7 @@
     "zh-TW": "烏茲別克"
    },
    "iso2": "UZ",
-   "ranking": 51,
+   "ranking": 50,
    "rankingPrev": 50,
    "baseCamp": {
     "city": "Marietta",
