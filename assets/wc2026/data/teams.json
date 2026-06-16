@@ -121,7 +121,7 @@
     "zh-TW": "澳洲"
    },
    "iso2": "AU",
-   "ranking": 23,
+   "ranking": 22,
    "rankingPrev": 27,
    "baseCamp": {
     "city": "Oakland",
@@ -397,7 +397,7 @@
     "zh-TW": "象牙海岸"
    },
    "iso2": "CI",
-   "ranking": 29,
+   "ranking": 30,
    "rankingPrev": 33,
    "baseCamp": {
     "city": "Chester",
@@ -535,7 +535,7 @@
     "zh-TW": "維德角"
    },
    "iso2": "CV",
-   "ranking": 67,
+   "ranking": 64,
    "rankingPrev": 67,
    "baseCamp": {
     "city": "Tampa",
@@ -627,7 +627,7 @@
     "zh-TW": "古拉索"
    },
    "iso2": "CW",
-   "ranking": 82,
+   "ranking": 83,
    "rankingPrev": 82,
    "baseCamp": {
     "city": "Boca Raton",
@@ -765,7 +765,7 @@
     "zh-TW": "埃及"
    },
    "iso2": "EG",
-   "ranking": 30,
+   "ranking": 29,
    "rankingPrev": 29,
    "baseCamp": {
     "city": "Spokane",
@@ -857,7 +857,7 @@
     "zh-TW": "西班牙"
    },
    "iso2": "ES",
-   "ranking": 2,
+   "ranking": 3,
    "rankingPrev": 2,
    "baseCamp": {
     "city": "Chattanooga",
@@ -903,7 +903,7 @@
     "zh-TW": "法國"
    },
    "iso2": "FR",
-   "ranking": 3,
+   "ranking": 2,
    "rankingPrev": 3,
    "baseCamp": {
     "city": "Boston",
@@ -1041,7 +1041,7 @@
     "zh-TW": "海地"
    },
    "iso2": "HT",
-   "ranking": 84,
+   "ranking": 85,
    "rankingPrev": 83,
    "baseCamp": {
     "city": "Galloway",
@@ -1087,7 +1087,7 @@
     "zh-TW": "伊朗"
    },
    "iso2": "IR",
-   "ranking": 20,
+   "ranking": 23,
    "rankingPrev": 20,
    "baseCamp": {
     "city": "Tijuana",
@@ -1179,7 +1179,7 @@
     "zh-TW": "約旦"
    },
    "iso2": "JO",
-   "ranking": 64,
+   "ranking": 65,
    "rankingPrev": 63,
    "baseCamp": {
     "city": "Portland",
@@ -1225,7 +1225,7 @@
     "zh-TW": "日本"
    },
    "iso2": "JP",
-   "ranking": 18,
+   "ranking": 17,
    "rankingPrev": 18,
    "baseCamp": {
     "city": "Nashville",
@@ -1271,7 +1271,7 @@
     "zh-TW": "南韓"
    },
    "iso2": "KR",
-   "ranking": 22,
+   "ranking": 21,
    "rankingPrev": 25,
    "baseCamp": {
     "city": "Guadalajara",
@@ -1547,7 +1547,7 @@
     "zh-TW": "紐西蘭"
    },
    "iso2": "NZ",
-   "ranking": 85,
+   "ranking": 82,
    "rankingPrev": 85,
    "baseCamp": {
     "city": "San Diego",
@@ -2096,7 +2096,7 @@
     "zh-TW": "烏拉圭"
    },
    "iso2": "UY",
-   "ranking": 17,
+   "ranking": 18,
    "rankingPrev": 16,
    "baseCamp": {
     "city": "Playa del Carmen",
