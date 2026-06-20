@@ -1758,22 +1758,22 @@
    "group": "C",
    "date": "2026-06-20T00:30:00Z",
    "venueId": "400248622",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "96'",
    "home": {
     "code": "BRA",
-    "score": null,
+    "score": 3,
     "pen": null
    },
    "away": {
     "code": "HAI",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "phA": "C1",
    "phB": "C3",
-   "winner": null,
-   "attendance": null,
+   "winner": "BRA",
+   "attendance": 68324,
    "officials": [
     {
      "id": "373845",
@@ -1817,22 +1817,22 @@
    "group": "C",
    "date": "2026-06-19T22:00:00Z",
    "venueId": "400248623",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "97'",
    "home": {
     "code": "SCO",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "away": {
     "code": "MAR",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "phA": "C4",
    "phB": "C2",
-   "winner": null,
-   "attendance": null,
+   "winner": "MAR",
+   "attendance": 64146,
    "officials": [
     {
      "id": "360687",
@@ -1866,39 +1866,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "361034",
-     "country": "JOR",
-     "role": "fourth",
-     "name": {
-      "en": "Adham MAKHADMEH",
-      "fr": "Adham MAKHADMEH",
-      "zh": "Adham MAKHADMEH",
-      "ar": "Adham MAKHADMEH",
-      "es": "Adham MAKHADMEH",
-      "de": "Adham MAKHADMEH",
-      "pt": "Adham MAKHADMEH",
-      "it": "Adham MAKHADMEH",
-      "ja": "Adham MAKHADMEH",
-      "ko": "Adham MAKHADMEH",
-      "id": "Adham MAKHADMEH",
-      "ru": "Adham MAKHADMEH"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -1909,22 +1876,22 @@
    "group": "D",
    "date": "2026-06-20T03:00:00Z",
    "venueId": "400257521",
-   "status": "scheduled",
-   "time": null,
+   "status": "live",
+   "time": "75'",
    "home": {
     "code": "TUR",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "away": {
     "code": "PAR",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "phA": "D4",
    "phB": "D2",
    "winner": null,
-   "attendance": null,
+   "attendance": 68827,
    "officials": [
     {
      "id": "408378",
@@ -1968,22 +1935,22 @@
    "group": "D",
    "date": "2026-06-19T19:00:00Z",
    "venueId": "400216606",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "99'",
    "home": {
     "code": "USA",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "away": {
     "code": "AUS",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "phA": "D1",
    "phB": "D3",
-   "winner": null,
-   "attendance": null,
+   "winner": "USA",
+   "attendance": 66925,
    "officials": [
     {
      "id": "348147",
@@ -2279,7 +2246,74 @@
    "phB": "H2",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "400227",
+     "country": "NOR",
+     "role": "referee",
+     "name": {
+      "en": "Espen ESKAS",
+      "fr": "Espen ESKAS",
+      "zh": "Espen ESKAS",
+      "ar": "Espen ESKAS",
+      "es": "Espen ESKAS",
+      "de": "Espen ESKAS",
+      "pt": "Espen ESKAS",
+      "it": "Espen ESKAS",
+      "ja": "Espen ESKAS",
+      "ko": "Espen ESKAS",
+      "id": "Espen ESKAS",
+      "ru": "Espen ESKAS"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    },
+    {
+     "id": "428431",
+     "country": "USA",
+     "role": "fourth",
+     "name": {
+      "en": "Tori PENSO",
+      "fr": "Tori PENSO",
+      "zh": "Tori PENSO",
+      "ar": "Tori PENSO",
+      "es": "Tori PENSO",
+      "de": "Tori PENSO",
+      "pt": "Tori PENSO",
+      "it": "Tori PENSO",
+      "ja": "Tori PENSO",
+      "ko": "Tori PENSO",
+      "id": "Tori PENSO",
+      "ru": "Tori PENSO"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021483",
@@ -2304,7 +2338,41 @@
    "phB": "H3",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "383222",
+     "country": "BRA",
+     "role": "referee",
+     "name": {
+      "en": "Raphael CLAUS",
+      "fr": "Raphael CLAUS",
+      "zh": "Raphael CLAUS",
+      "ar": "Raphael CLAUS",
+      "es": "Raphael CLAUS",
+      "de": "Raphael CLAUS",
+      "pt": "Raphael CLAUS",
+      "it": "Raphael CLAUS",
+      "ja": "Raphael CLAUS",
+      "ko": "Raphael CLAUS",
+      "id": "Raphael CLAUS",
+      "ru": "Raphael CLAUS"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021477",
@@ -2329,7 +2397,41 @@
    "phB": "G3",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "383174",
+     "country": "ARG",
+     "role": "referee",
+     "name": {
+      "en": "Dario HERRERA",
+      "fr": "Dario HERRERA",
+      "zh": "Dario HERRERA",
+      "ar": "Dario HERRERA",
+      "es": "Dario HERRERA",
+      "de": "Dario HERRERA",
+      "pt": "Dario HERRERA",
+      "it": "Dario HERRERA",
+      "ja": "Dario HERRERA",
+      "ko": "Dario HERRERA",
+      "id": "Dario HERRERA",
+      "ru": "Dario HERRERA"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021480",
@@ -2354,7 +2456,41 @@
    "phB": "G2",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "383421",
+     "country": "UAE",
+     "role": "referee",
+     "name": {
+      "en": "Omar ALALI",
+      "fr": "Omar ALALI",
+      "zh": "Omar ALALI",
+      "ar": "Omar ALALI",
+      "es": "Omar ALALI",
+      "de": "Omar ALALI",
+      "pt": "Omar ALALI",
+      "it": "Omar ALALI",
+      "ja": "Omar ALALI",
+      "ko": "Omar ALALI",
+      "id": "Omar ALALI",
+      "ru": "Omar ALALI"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021491",
