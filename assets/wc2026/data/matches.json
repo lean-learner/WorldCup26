@@ -2237,8 +2237,8 @@
    "group": "F",
    "date": "2026-06-21T04:00:00Z",
    "venueId": "400238450",
-   "status": "live",
-   "time": "55'",
+   "status": "finished",
+   "time": "97'",
    "home": {
     "code": "TUN",
     "score": 0,
@@ -2246,12 +2246,12 @@
    },
    "away": {
     "code": "JPN",
-    "score": 2,
+    "score": 4,
     "pen": null
    },
    "phA": "F4",
    "phB": "F2",
-   "winner": null,
+   "winner": "JPN",
    "attendance": 51243,
    "officials": [
     {
@@ -2296,22 +2296,22 @@
    "group": "H",
    "date": "2026-06-21T22:00:00Z",
    "venueId": "400257525",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "99'",
    "home": {
     "code": "URU",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "away": {
     "code": "CPV",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "phA": "H4",
    "phB": "H2",
    "winner": null,
-   "attendance": null,
+   "attendance": 64003,
    "officials": [
     {
      "id": "400227",
@@ -2345,39 +2345,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "428431",
-     "country": "USA",
-     "role": "fourth",
-     "name": {
-      "en": "Tori PENSO",
-      "fr": "Tori PENSO",
-      "zh": "Tori PENSO",
-      "ar": "Tori PENSO",
-      "es": "Tori PENSO",
-      "de": "Tori PENSO",
-      "pt": "Tori PENSO",
-      "it": "Tori PENSO",
-      "ja": "Tori PENSO",
-      "ko": "Tori PENSO",
-      "id": "Tori PENSO",
-      "ru": "Tori PENSO"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -2388,22 +2355,22 @@
    "group": "H",
    "date": "2026-06-21T16:00:00Z",
    "venueId": "400098290",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "99'",
    "home": {
     "code": "ESP",
-    "score": null,
+    "score": 4,
     "pen": null
    },
    "away": {
     "code": "KSA",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "phA": "H1",
    "phB": "H3",
-   "winner": null,
-   "attendance": null,
+   "winner": "ESP",
+   "attendance": 68239,
    "officials": [
     {
      "id": "383222",
@@ -2447,22 +2414,22 @@
    "group": "G",
    "date": "2026-06-21T19:00:00Z",
    "venueId": "400017978",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "96'",
    "home": {
     "code": "BEL",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "away": {
     "code": "IRN",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "phA": "G1",
    "phB": "G3",
    "winner": null,
-   "attendance": null,
+   "attendance": 70317,
    "officials": [
     {
      "id": "383174",
@@ -2506,22 +2473,22 @@
    "group": "G",
    "date": "2026-06-22T01:00:00Z",
    "venueId": "400248370",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "101'",
    "home": {
     "code": "NZL",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "away": {
     "code": "EGY",
-    "score": null,
+    "score": 3,
     "pen": null
    },
    "phA": "G4",
    "phB": "G2",
-   "winner": null,
-   "attendance": null,
+   "winner": "EGY",
+   "attendance": 52497,
    "officials": [
     {
      "id": "383421",
@@ -2850,7 +2817,74 @@
    "phB": "L3",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "400191",
+     "country": "HON",
+     "role": "referee",
+     "name": {
+      "en": "Said MARTINEZ",
+      "fr": "Said MARTINEZ",
+      "zh": "Said MARTINEZ",
+      "ar": "Said MARTINEZ",
+      "es": "Said MARTINEZ",
+      "de": "Said MARTINEZ",
+      "pt": "Said MARTINEZ",
+      "it": "Said MARTINEZ",
+      "ja": "Said MARTINEZ",
+      "ko": "Said MARTINEZ",
+      "id": "Said MARTINEZ",
+      "ru": "Said MARTINEZ"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    },
+    {
+     "id": "328495",
+     "country": "CHN",
+     "role": "fourth",
+     "name": {
+      "en": "MA Ning",
+      "fr": "MA Ning",
+      "zh": "MA Ning",
+      "ar": "MA Ning",
+      "es": "MA Ning",
+      "de": "MA Ning",
+      "pt": "MA Ning",
+      "it": "MA Ning",
+      "ja": "MA Ning",
+      "ko": "MA Ning",
+      "id": "MA Ning",
+      "ru": "MA Ning"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021511",
@@ -2875,7 +2909,41 @@
    "phB": "L2",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "408417",
+     "country": "GAB",
+     "role": "referee",
+     "name": {
+      "en": "Pierre ATCHO",
+      "fr": "Pierre ATCHO",
+      "zh": "Pierre ATCHO",
+      "ar": "Pierre ATCHO",
+      "es": "Pierre ATCHO",
+      "de": "Pierre ATCHO",
+      "pt": "Pierre ATCHO",
+      "it": "Pierre ATCHO",
+      "ja": "Pierre ATCHO",
+      "ko": "Pierre ATCHO",
+      "id": "Pierre ATCHO",
+      "ru": "Pierre ATCHO"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021503",
@@ -2900,7 +2968,41 @@
    "phB": "K3",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "416524",
+     "country": "MAR",
+     "role": "referee",
+     "name": {
+      "en": "Jalal JAYED",
+      "fr": "Jalal JAYED",
+      "zh": "Jalal JAYED",
+      "ar": "Jalal JAYED",
+      "es": "Jalal JAYED",
+      "de": "Jalal JAYED",
+      "pt": "Jalal JAYED",
+      "it": "Jalal JAYED",
+      "ja": "Jalal JAYED",
+      "ko": "Jalal JAYED",
+      "id": "Jalal JAYED",
+      "ru": "Jalal JAYED"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021501",
@@ -2925,7 +3027,41 @@
    "phB": "K2",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "415965",
+     "country": "ITA",
+     "role": "referee",
+     "name": {
+      "en": "Maurizio MARIANI",
+      "fr": "Maurizio MARIANI",
+      "zh": "Maurizio MARIANI",
+      "ar": "Maurizio MARIANI",
+      "es": "Maurizio MARIANI",
+      "de": "Maurizio MARIANI",
+      "pt": "Maurizio MARIANI",
+      "it": "Maurizio MARIANI",
+      "ja": "Maurizio MARIANI",
+      "ko": "Maurizio MARIANI",
+      "id": "Maurizio MARIANI",
+      "ru": "Maurizio MARIANI"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021455",
