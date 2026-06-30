@@ -4662,6 +4662,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "416317",
+     "country": "MEX",
+     "role": "fourth",
+     "name": {
+      "en": "Katia GARCIA",
+      "fr": "Katia GARCIA",
+      "zh": "Katia GARCIA",
+      "ar": "Katia GARCIA",
+      "es": "Katia GARCIA",
+      "de": "Katia GARCIA",
+      "pt": "Katia GARCIA",
+      "it": "Katia GARCIA",
+      "ja": "Katia GARCIA",
+      "ko": "Katia GARCIA",
+      "id": "Katia GARCIA",
+      "ru": "Katia GARCIA"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -4720,6 +4753,39 @@
       "ko": "주심",
       "id": "Wasit",
       "ru": "Главный судья"
+     }
+    },
+    {
+     "id": "408591",
+     "country": "MTN",
+     "role": "fourth",
+     "name": {
+      "en": "Dahane BEIDA",
+      "fr": "Dahane BEIDA",
+      "zh": "Dahane BEIDA",
+      "ar": "Dahane BEIDA",
+      "es": "Dahane BEIDA",
+      "de": "Dahane BEIDA",
+      "pt": "Dahane BEIDA",
+      "it": "Dahane BEIDA",
+      "ja": "Dahane BEIDA",
+      "ko": "Dahane BEIDA",
+      "id": "Dahane BEIDA",
+      "ru": "Dahane BEIDA"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
      }
     }
    ]
@@ -4964,6 +5030,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "383421",
+     "country": "UAE",
+     "role": "fourth",
+     "name": {
+      "en": "Omar ALALI",
+      "fr": "Omar ALALI",
+      "zh": "Omar ALALI",
+      "ar": "Omar ALALI",
+      "es": "Omar ALALI",
+      "de": "Omar ALALI",
+      "pt": "Omar ALALI",
+      "it": "Omar ALALI",
+      "ja": "Omar ALALI",
+      "ko": "Omar ALALI",
+      "id": "Omar ALALI",
+      "ru": "Omar ALALI"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -4974,22 +5073,22 @@
    "group": null,
    "date": "2026-06-29T20:30:00Z",
    "venueId": "400248623",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "132'",
    "home": {
     "code": "GER",
-    "score": null,
-    "pen": null
+    "score": 1,
+    "pen": 3
    },
    "away": {
     "code": "PAR",
-    "score": null,
-    "pen": null
+    "score": 1,
+    "pen": 4
    },
    "phA": "1E",
    "phB": "3ABCDF",
-   "winner": null,
-   "attendance": null,
+   "winner": "PAR",
+   "attendance": 63945,
    "officials": [
     {
      "id": "416524",
@@ -5023,39 +5122,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "328495",
-     "country": "CHN",
-     "role": "fourth",
-     "name": {
-      "en": "MA Ning",
-      "fr": "MA Ning",
-      "zh": "MA Ning",
-      "ar": "MA Ning",
-      "es": "MA Ning",
-      "de": "MA Ning",
-      "pt": "MA Ning",
-      "it": "MA Ning",
-      "ja": "MA Ning",
-      "ko": "MA Ning",
-      "id": "MA Ning",
-      "ru": "MA Ning"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -5066,22 +5132,22 @@
    "group": null,
    "date": "2026-06-30T01:00:00Z",
    "venueId": "400238450",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "130'",
    "home": {
     "code": "NED",
-    "score": null,
-    "pen": null
+    "score": 1,
+    "pen": 2
    },
    "away": {
     "code": "MAR",
-    "score": null,
-    "pen": null
+    "score": 1,
+    "pen": 3
    },
    "phA": "1F",
    "phB": "2C",
-   "winner": null,
-   "attendance": null,
+   "winner": "MAR",
+   "attendance": 51243,
    "officials": [
     {
      "id": "361561",
@@ -5115,39 +5181,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "416177",
-     "country": "CHI",
-     "role": "fourth",
-     "name": {
-      "en": "Cristian GARAY",
-      "fr": "Cristian GARAY",
-      "zh": "Cristian GARAY",
-      "ar": "Cristian GARAY",
-      "es": "Cristian GARAY",
-      "de": "Cristian GARAY",
-      "pt": "Cristian GARAY",
-      "it": "Cristian GARAY",
-      "ja": "Cristian GARAY",
-      "ko": "Cristian GARAY",
-      "id": "Cristian GARAY",
-      "ru": "Cristian GARAY"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -5158,22 +5191,22 @@
    "group": null,
    "date": "2026-06-29T17:00:00Z",
    "venueId": "400249385",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "101'",
    "home": {
     "code": "BRA",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "away": {
     "code": "JPN",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "phA": "1C",
    "phB": "2F",
-   "winner": null,
-   "attendance": null,
+   "winner": "BRA",
+   "attendance": 68777,
    "officials": [
     {
      "id": "415965",
@@ -5233,7 +5266,74 @@
    "phB": "3CDFGH",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "327159",
+     "country": "NED",
+     "role": "referee",
+     "name": {
+      "en": "Danny MAKKELIE",
+      "fr": "Danny MAKKELIE",
+      "zh": "Danny MAKKELIE",
+      "ar": "Danny MAKKELIE",
+      "es": "Danny MAKKELIE",
+      "de": "Danny MAKKELIE",
+      "pt": "Danny MAKKELIE",
+      "it": "Danny MAKKELIE",
+      "ja": "Danny MAKKELIE",
+      "ko": "Danny MAKKELIE",
+      "id": "Danny MAKKELIE",
+      "ru": "Danny MAKKELIE"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    },
+    {
+     "id": "428431",
+     "country": "USA",
+     "role": "fourth",
+     "name": {
+      "en": "Tori PENSO",
+      "fr": "Tori PENSO",
+      "zh": "Tori PENSO",
+      "ar": "Tori PENSO",
+      "es": "Tori PENSO",
+      "de": "Tori PENSO",
+      "pt": "Tori PENSO",
+      "it": "Tori PENSO",
+      "ja": "Tori PENSO",
+      "ko": "Tori PENSO",
+      "id": "Tori PENSO",
+      "ru": "Tori PENSO"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021514",
@@ -5258,7 +5358,74 @@
    "phB": "2I",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "360305",
+     "country": "VEN",
+     "role": "referee",
+     "name": {
+      "en": "Jesus VALENZUELA",
+      "fr": "Jesus VALENZUELA",
+      "zh": "Jesus VALENZUELA",
+      "ar": "Jesus VALENZUELA",
+      "es": "Jesus VALENZUELA",
+      "de": "Jesus VALENZUELA",
+      "pt": "Jesus VALENZUELA",
+      "it": "Jesus VALENZUELA",
+      "ja": "Jesus VALENZUELA",
+      "ko": "Jesus VALENZUELA",
+      "id": "Jesus VALENZUELA",
+      "ru": "Jesus VALENZUELA"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    },
+    {
+     "id": "416159",
+     "country": "PAR",
+     "role": "fourth",
+     "name": {
+      "en": "Juan Gabriel BENITEZ",
+      "fr": "Juan Gabriel BENITEZ",
+      "zh": "Juan Gabriel BENITEZ",
+      "ar": "Juan Gabriel BENITEZ",
+      "es": "Juan Gabriel BENITEZ",
+      "de": "Juan Gabriel BENITEZ",
+      "pt": "Juan Gabriel BENITEZ",
+      "it": "Juan Gabriel BENITEZ",
+      "ja": "Juan Gabriel BENITEZ",
+      "ko": "Juan Gabriel BENITEZ",
+      "id": "Juan Gabriel BENITEZ",
+      "ru": "Juan Gabriel BENITEZ"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021520",
@@ -5283,7 +5450,74 @@
    "phB": "3CEFHI",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "315008",
+     "country": "SVN",
+     "role": "referee",
+     "name": {
+      "en": "Slavko VINCIC",
+      "fr": "Slavko VINCIC",
+      "zh": "Slavko VINCIC",
+      "ar": "Slavko VINCIC",
+      "es": "Slavko VINCIC",
+      "de": "Slavko VINCIC",
+      "pt": "Slavko VINCIC",
+      "it": "Slavko VINCIC",
+      "ja": "Slavko VINCIC",
+      "ko": "Slavko VINCIC",
+      "id": "Slavko VINCIC",
+      "ru": "Slavko VINCIC"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    },
+    {
+     "id": "375306",
+     "country": "ALG",
+     "role": "fourth",
+     "name": {
+      "en": "Mustapha GHORBAL",
+      "fr": "Mustapha GHORBAL",
+      "zh": "Mustapha GHORBAL",
+      "ar": "Mustapha GHORBAL",
+      "es": "Mustapha GHORBAL",
+      "de": "Mustapha GHORBAL",
+      "pt": "Mustapha GHORBAL",
+      "it": "Mustapha GHORBAL",
+      "ja": "Mustapha GHORBAL",
+      "ko": "Mustapha GHORBAL",
+      "id": "Mustapha GHORBAL",
+      "ru": "Mustapha GHORBAL"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021512",
@@ -5519,7 +5753,11 @@
    "venueId": "400248622",
    "status": "scheduled",
    "time": null,
-   "home": null,
+   "home": {
+    "code": "PAR",
+    "score": null,
+    "pen": null
+   },
    "away": null,
    "phA": "W74",
    "phB": "W77",
@@ -5557,7 +5795,11 @@
    "venueId": "400257536",
    "status": "scheduled",
    "time": null,
-   "home": null,
+   "home": {
+    "code": "BRA",
+    "score": null,
+    "pen": null
+   },
    "away": null,
    "phA": "W76",
    "phB": "W78",
