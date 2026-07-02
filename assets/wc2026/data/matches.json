@@ -5365,6 +5365,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "428431",
+     "country": "USA",
+     "role": "fourth",
+     "name": {
+      "en": "Tori PENSO",
+      "fr": "Tori PENSO",
+      "zh": "Tori PENSO",
+      "ar": "Tori PENSO",
+      "es": "Tori PENSO",
+      "de": "Tori PENSO",
+      "pt": "Tori PENSO",
+      "it": "Tori PENSO",
+      "ja": "Tori PENSO",
+      "ko": "Tori PENSO",
+      "id": "Tori PENSO",
+      "ru": "Tori PENSO"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -5424,6 +5457,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "416159",
+     "country": "PAR",
+     "role": "fourth",
+     "name": {
+      "en": "Juan Gabriel BENITEZ",
+      "fr": "Juan Gabriel BENITEZ",
+      "zh": "Juan Gabriel BENITEZ",
+      "ar": "Juan Gabriel BENITEZ",
+      "es": "Juan Gabriel BENITEZ",
+      "de": "Juan Gabriel BENITEZ",
+      "pt": "Juan Gabriel BENITEZ",
+      "it": "Juan Gabriel BENITEZ",
+      "ja": "Juan Gabriel BENITEZ",
+      "ko": "Juan Gabriel BENITEZ",
+      "id": "Juan Gabriel BENITEZ",
+      "ru": "Juan Gabriel BENITEZ"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -5432,24 +5498,24 @@
    "n": 79,
    "stage": "r32",
    "group": null,
-   "date": "2026-07-01T01:00:00Z",
+   "date": "2026-07-01T02:00:00Z",
    "venueId": "400222084",
-   "status": "scheduled",
-   "time": "0'",
+   "status": "finished",
+   "time": "99'",
    "home": {
     "code": "MEX",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "away": {
     "code": "ECU",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "phA": "1A",
    "phB": "3CEFHI",
-   "winner": null,
-   "attendance": null,
+   "winner": "MEX",
+   "attendance": 80824,
    "officials": [
     {
      "id": "315008",
@@ -5483,6 +5549,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "375306",
+     "country": "ALG",
+     "role": "fourth",
+     "name": {
+      "en": "Mustapha GHORBAL",
+      "fr": "Mustapha GHORBAL",
+      "zh": "Mustapha GHORBAL",
+      "ar": "Mustapha GHORBAL",
+      "es": "Mustapha GHORBAL",
+      "de": "Mustapha GHORBAL",
+      "pt": "Mustapha GHORBAL",
+      "it": "Mustapha GHORBAL",
+      "ja": "Mustapha GHORBAL",
+      "ko": "Mustapha GHORBAL",
+      "id": "Mustapha GHORBAL",
+      "ru": "Mustapha GHORBAL"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -5493,22 +5592,22 @@
    "group": null,
    "date": "2026-07-01T16:00:00Z",
    "venueId": "400098290",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "97'",
    "home": {
     "code": "ENG",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "away": {
     "code": "COD",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "phA": "1L",
    "phB": "3EHIJK",
-   "winner": null,
-   "attendance": null,
+   "winner": "ENG",
+   "attendance": 68239,
    "officials": [
     {
      "id": "361034",
@@ -5552,22 +5651,22 @@
    "group": null,
    "date": "2026-07-02T00:00:00Z",
    "venueId": "400257521",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "101'",
    "home": {
     "code": "USA",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "away": {
     "code": "BIH",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "phA": "1D",
    "phB": "3BEFIJ",
-   "winner": null,
-   "attendance": null,
+   "winner": "USA",
+   "attendance": 68827,
    "officials": [
     {
      "id": "383222",
@@ -5601,39 +5700,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "383174",
-     "country": "ARG",
-     "role": "fourth",
-     "name": {
-      "en": "Dario HERRERA",
-      "fr": "Dario HERRERA",
-      "zh": "Dario HERRERA",
-      "ar": "Dario HERRERA",
-      "es": "Dario HERRERA",
-      "de": "Dario HERRERA",
-      "pt": "Dario HERRERA",
-      "it": "Dario HERRERA",
-      "ja": "Dario HERRERA",
-      "ko": "Dario HERRERA",
-      "id": "Dario HERRERA",
-      "ru": "Dario HERRERA"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -5644,22 +5710,22 @@
    "group": null,
    "date": "2026-07-01T20:00:00Z",
    "venueId": "400216606",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "132'",
    "home": {
     "code": "BEL",
-    "score": null,
+    "score": 3,
     "pen": null
    },
    "away": {
     "code": "SEN",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "phA": "1G",
    "phB": "3AEHIJ",
-   "winner": null,
-   "attendance": null,
+   "winner": "BEL",
+   "attendance": 66925,
    "officials": [
     {
      "id": "400191",
@@ -6065,8 +6131,16 @@
    "venueId": "400222084",
    "status": "scheduled",
    "time": null,
-   "home": null,
-   "away": null,
+   "home": {
+    "code": "MEX",
+    "score": null,
+    "pen": null
+   },
+   "away": {
+    "code": "ENG",
+    "score": null,
+    "pen": null
+   },
    "phA": "W79",
    "phB": "W80",
    "winner": null,
@@ -6099,8 +6173,16 @@
    "venueId": "400216606",
    "status": "scheduled",
    "time": null,
-   "home": null,
-   "away": null,
+   "home": {
+    "code": "USA",
+    "score": null,
+    "pen": null
+   },
+   "away": {
+    "code": "BEL",
+    "score": null,
+    "pen": null
+   },
    "phA": "W81",
    "phB": "W82",
    "winner": null,
