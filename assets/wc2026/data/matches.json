@@ -5700,6 +5700,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "383174",
+     "country": "ARG",
+     "role": "fourth",
+     "name": {
+      "en": "Dario HERRERA",
+      "fr": "Dario HERRERA",
+      "zh": "Dario HERRERA",
+      "ar": "Dario HERRERA",
+      "es": "Dario HERRERA",
+      "de": "Dario HERRERA",
+      "pt": "Dario HERRERA",
+      "it": "Dario HERRERA",
+      "ja": "Dario HERRERA",
+      "ko": "Dario HERRERA",
+      "id": "Dario HERRERA",
+      "ru": "Dario HERRERA"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -5769,40 +5802,40 @@
    "group": null,
    "date": "2026-07-02T23:00:00Z",
    "venueId": "400242032",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "109'",
    "home": {
     "code": "POR",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "away": {
     "code": "CRO",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "phA": "2K",
    "phB": "2L",
-   "winner": null,
-   "attendance": null,
+   "winner": "POR",
+   "attendance": 43036,
    "officials": [
     {
      "id": "400227",
      "country": "NOR",
      "role": "referee",
      "name": {
-      "en": "Espen ESKAS",
-      "fr": "Espen ESKAS",
-      "zh": "Espen ESKAS",
-      "ar": "Espen ESKAS",
-      "es": "Espen ESKAS",
-      "de": "Espen ESKAS",
-      "pt": "Espen ESKAS",
-      "it": "Espen ESKAS",
-      "ja": "Espen ESKAS",
-      "ko": "Espen ESKAS",
-      "id": "Espen ESKAS",
-      "ru": "Espen ESKAS"
+      "en": "E. Eskås",
+      "fr": "E. Eskås",
+      "zh": "埃斯克斯",
+      "ar": "E. Eskås",
+      "es": "E. Eskås",
+      "de": "E. Eskås",
+      "pt": "E. Eskås",
+      "it": "E. Eskås",
+      "ja": "E. Eskås",
+      "ko": "E. Eskås",
+      "id": "E. Eskås",
+      "ru": "E. Eskås"
      },
      "typeName": {
       "en": "Referee",
@@ -5828,22 +5861,22 @@
    "group": null,
    "date": "2026-07-02T19:00:00Z",
    "venueId": "400017978",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "97'",
    "home": {
     "code": "ESP",
-    "score": null,
+    "score": 3,
     "pen": null
    },
    "away": {
     "code": "AUT",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "phA": "1H",
    "phB": "2J",
-   "winner": null,
-   "attendance": null,
+   "winner": "ESP",
+   "attendance": 70492,
    "officials": [
     {
      "id": "392336",
@@ -5877,39 +5910,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "408591",
-     "country": "MTN",
-     "role": "fourth",
-     "name": {
-      "en": "Dahane BEIDA",
-      "fr": "Dahane BEIDA",
-      "zh": "Dahane BEIDA",
-      "ar": "Dahane BEIDA",
-      "es": "Dahane BEIDA",
-      "de": "Dahane BEIDA",
-      "pt": "Dahane BEIDA",
-      "it": "Dahane BEIDA",
-      "ja": "Dahane BEIDA",
-      "ko": "Dahane BEIDA",
-      "id": "Dahane BEIDA",
-      "ru": "Dahane BEIDA"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -5920,16 +5920,16 @@
    "group": null,
    "date": "2026-07-03T03:00:00Z",
    "venueId": "400248370",
-   "status": "scheduled",
-   "time": null,
+   "status": "live",
+   "time": "45'+2'",
    "home": {
     "code": "SUI",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "away": {
     "code": "ALG",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "phA": "1B",
@@ -5942,18 +5942,18 @@
      "country": "ARG",
      "role": "referee",
      "name": {
-      "en": "Yael FALCON PEREZ",
-      "fr": "Yael FALCON PEREZ",
-      "zh": "Yael FALCON PEREZ",
-      "ar": "Yael FALCON PEREZ",
-      "es": "Yael FALCON PEREZ",
-      "de": "Yael FALCON PEREZ",
-      "pt": "Yael FALCON PEREZ",
-      "it": "Yael FALCON PEREZ",
-      "ja": "Yael FALCON PEREZ",
-      "ko": "Yael FALCON PEREZ",
-      "id": "Yael FALCON PEREZ",
-      "ru": "Yael FALCON PEREZ"
+      "en": "Y. Falcón",
+      "fr": "Y. Falcón",
+      "zh": "法尔孔",
+      "ar": "Y. Falcón",
+      "es": "Y. Falcón",
+      "de": "Y. Falcón",
+      "pt": "Y. Falcón",
+      "it": "Y. Falcón",
+      "ja": "Y. Falcón",
+      "ko": "Y. Falcón",
+      "id": "Y. Falcón",
+      "ru": "Y. Falcón"
      },
      "typeName": {
       "en": "Referee",
@@ -5995,7 +5995,74 @@
    "phB": "2H",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "372930",
+     "country": "CAN",
+     "role": "referee",
+     "name": {
+      "en": "Drew FISCHER",
+      "fr": "Drew FISCHER",
+      "zh": "Drew FISCHER",
+      "ar": "Drew FISCHER",
+      "es": "Drew FISCHER",
+      "de": "Drew FISCHER",
+      "pt": "Drew FISCHER",
+      "it": "Drew FISCHER",
+      "ja": "Drew FISCHER",
+      "ko": "Drew FISCHER",
+      "id": "Drew FISCHER",
+      "ru": "Drew FISCHER"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    },
+    {
+     "id": "416317",
+     "country": "MEX",
+     "role": "fourth",
+     "name": {
+      "en": "Katia GARCIA",
+      "fr": "Katia GARCIA",
+      "zh": "Katia GARCIA",
+      "ar": "Katia GARCIA",
+      "es": "Katia GARCIA",
+      "de": "Katia GARCIA",
+      "pt": "Katia GARCIA",
+      "it": "Katia GARCIA",
+      "ja": "Katia GARCIA",
+      "ko": "Katia GARCIA",
+      "id": "Katia GARCIA",
+      "ru": "Katia GARCIA"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021517",
@@ -6020,7 +6087,74 @@
    "phB": "3DEIJL",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "314589",
+     "country": "FRA",
+     "role": "referee",
+     "name": {
+      "en": "Clement TURPIN",
+      "fr": "Clement TURPIN",
+      "zh": "Clement TURPIN",
+      "ar": "Clement TURPIN",
+      "es": "Clement TURPIN",
+      "de": "Clement TURPIN",
+      "pt": "Clement TURPIN",
+      "it": "Clement TURPIN",
+      "ja": "Clement TURPIN",
+      "ko": "Clement TURPIN",
+      "id": "Clement TURPIN",
+      "ru": "Clement TURPIN"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    },
+    {
+     "id": "373845",
+     "country": "ESP",
+     "role": "fourth",
+     "name": {
+      "en": "Alejandro HERNANDEZ",
+      "fr": "Alejandro HERNANDEZ",
+      "zh": "Alejandro HERNANDEZ",
+      "ar": "Alejandro HERNANDEZ",
+      "es": "Alejandro HERNANDEZ",
+      "de": "Alejandro HERNANDEZ",
+      "pt": "Alejandro HERNANDEZ",
+      "it": "Alejandro HERNANDEZ",
+      "ja": "Alejandro HERNANDEZ",
+      "ko": "Alejandro HERNANDEZ",
+      "id": "Alejandro HERNANDEZ",
+      "ru": "Alejandro HERNANDEZ"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021515",
@@ -6045,7 +6179,41 @@
    "phB": "2G",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "408669",
+     "country": "URU",
+     "role": "referee",
+     "name": {
+      "en": "Gustavo TEJERA",
+      "fr": "Gustavo TEJERA",
+      "zh": "Gustavo TEJERA",
+      "ar": "Gustavo TEJERA",
+      "es": "Gustavo TEJERA",
+      "de": "Gustavo TEJERA",
+      "pt": "Gustavo TEJERA",
+      "it": "Gustavo TEJERA",
+      "ja": "Gustavo TEJERA",
+      "ko": "Gustavo TEJERA",
+      "id": "Gustavo TEJERA",
+      "ru": "Gustavo TEJERA"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021533",
@@ -6156,8 +6324,16 @@
    "venueId": "400257526",
    "status": "scheduled",
    "time": null,
-   "home": null,
-   "away": null,
+   "home": {
+    "code": "POR",
+    "score": null,
+    "pen": null
+   },
+   "away": {
+    "code": "ESP",
+    "score": null,
+    "pen": null
+   },
    "phA": "W83",
    "phB": "W84",
    "winner": null,
