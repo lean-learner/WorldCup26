@@ -1,44 +1,38 @@
 {
- "updatedAt": "2026-07-03T03:57:34.381Z",
+ "updatedAt": "2026-07-04T03:42:02.086Z",
  "season": "285023",
  "titleOdds": [
   {
    "c": "ARG",
-   "p": 22.5
+   "p": 24.7
   },
   {
    "c": "ESP",
-   "p": 20.3
+   "p": 18.9
   },
   {
    "c": "FRA",
-   "p": 18.2
+   "p": 17.7
   },
   {
    "c": "ENG",
-   "p": 10.1
+   "p": 9.9
   },
   {
    "c": "BRA",
-   "p": 6.9
+   "p": 6.7
   }
  ],
  "counts": {
   "matches": 104,
   "teams": 48,
   "squads": 48,
-  "weather": 103,
-  "lineups": 85,
+  "weather": 104,
+  "lineups": 88,
   "flags": 179
  },
  "errors": [
-  "geocode New Tecumseth: no usable result — not cached, will retry next run",
-  "weather SoFi Stadium: The operation was aborted.",
-  "weather Mercedes-Benz Stadium: The operation was aborted.",
-  "weather Levi's Stadium: The operation was aborted.",
-  "weather Hard Rock Stadium: The operation was aborted.",
-  "weather AT&T Stadium: The operation was aborted.",
-  "weather MetLife Stadium: The operation was aborted."
+  "geocode New Tecumseth: no usable result — not cached, will retry next run"
  ],
  "sources": [
   "api.fifa.com",

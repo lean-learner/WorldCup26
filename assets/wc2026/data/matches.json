@@ -5824,18 +5824,18 @@
      "country": "NOR",
      "role": "referee",
      "name": {
-      "en": "E. Eskås",
-      "fr": "E. Eskås",
-      "zh": "埃斯克斯",
-      "ar": "E. Eskås",
-      "es": "E. Eskås",
-      "de": "E. Eskås",
-      "pt": "E. Eskås",
-      "it": "E. Eskås",
-      "ja": "E. Eskås",
-      "ko": "E. Eskås",
-      "id": "E. Eskås",
-      "ru": "E. Eskås"
+      "en": "Espen ESKAS",
+      "fr": "Espen ESKAS",
+      "zh": "Espen ESKAS",
+      "ar": "Espen ESKAS",
+      "es": "Espen ESKAS",
+      "de": "Espen ESKAS",
+      "pt": "Espen ESKAS",
+      "it": "Espen ESKAS",
+      "ja": "Espen ESKAS",
+      "ko": "Espen ESKAS",
+      "id": "Espen ESKAS",
+      "ru": "Espen ESKAS"
      },
      "typeName": {
       "en": "Referee",
@@ -5910,6 +5910,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "408591",
+     "country": "MTN",
+     "role": "fourth",
+     "name": {
+      "en": "Dahane BEIDA",
+      "fr": "Dahane BEIDA",
+      "zh": "Dahane BEIDA",
+      "ar": "Dahane BEIDA",
+      "es": "Dahane BEIDA",
+      "de": "Dahane BEIDA",
+      "pt": "Dahane BEIDA",
+      "it": "Dahane BEIDA",
+      "ja": "Dahane BEIDA",
+      "ko": "Dahane BEIDA",
+      "id": "Dahane BEIDA",
+      "ru": "Dahane BEIDA"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -5920,11 +5953,11 @@
    "group": null,
    "date": "2026-07-03T03:00:00Z",
    "venueId": "400248370",
-   "status": "live",
-   "time": "45'+2'",
+   "status": "finished",
+   "time": "97'",
    "home": {
     "code": "SUI",
-    "score": 1,
+    "score": 2,
     "pen": null
    },
    "away": {
@@ -5934,26 +5967,26 @@
    },
    "phA": "1B",
    "phB": "3EFGIJ",
-   "winner": null,
-   "attendance": null,
+   "winner": "SUI",
+   "attendance": 52497,
    "officials": [
     {
      "id": "434995",
      "country": "ARG",
      "role": "referee",
      "name": {
-      "en": "Y. Falcón",
-      "fr": "Y. Falcón",
-      "zh": "法尔孔",
-      "ar": "Y. Falcón",
-      "es": "Y. Falcón",
-      "de": "Y. Falcón",
-      "pt": "Y. Falcón",
-      "it": "Y. Falcón",
-      "ja": "Y. Falcón",
-      "ko": "Y. Falcón",
-      "id": "Y. Falcón",
-      "ru": "Y. Falcón"
+      "en": "Yael FALCON PEREZ",
+      "fr": "Yael FALCON PEREZ",
+      "zh": "Yael FALCON PEREZ",
+      "ar": "Yael FALCON PEREZ",
+      "es": "Yael FALCON PEREZ",
+      "de": "Yael FALCON PEREZ",
+      "pt": "Yael FALCON PEREZ",
+      "it": "Yael FALCON PEREZ",
+      "ja": "Yael FALCON PEREZ",
+      "ko": "Yael FALCON PEREZ",
+      "id": "Yael FALCON PEREZ",
+      "ru": "Yael FALCON PEREZ"
      },
      "typeName": {
       "en": "Referee",
@@ -5979,22 +6012,22 @@
    "group": null,
    "date": "2026-07-03T22:00:00Z",
    "venueId": "400257525",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "124'",
    "home": {
     "code": "ARG",
-    "score": null,
+    "score": 3,
     "pen": null
    },
    "away": {
     "code": "CPV",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "phA": "1J",
    "phB": "2H",
-   "winner": null,
-   "attendance": null,
+   "winner": "ARG",
+   "attendance": 64478,
    "officials": [
     {
      "id": "372930",
@@ -6028,39 +6061,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "416317",
-     "country": "MEX",
-     "role": "fourth",
-     "name": {
-      "en": "Katia GARCIA",
-      "fr": "Katia GARCIA",
-      "zh": "Katia GARCIA",
-      "ar": "Katia GARCIA",
-      "es": "Katia GARCIA",
-      "de": "Katia GARCIA",
-      "pt": "Katia GARCIA",
-      "it": "Katia GARCIA",
-      "ja": "Katia GARCIA",
-      "ko": "Katia GARCIA",
-      "id": "Katia GARCIA",
-      "ru": "Katia GARCIA"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -6071,22 +6071,22 @@
    "group": null,
    "date": "2026-07-04T01:30:00Z",
    "venueId": "400254717",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "98'",
    "home": {
     "code": "COL",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "away": {
     "code": "GHA",
-    "score": null,
+    "score": 0,
     "pen": null
    },
    "phA": "1K",
    "phB": "3DEIJL",
-   "winner": null,
-   "attendance": null,
+   "winner": "COL",
+   "attendance": 69045,
    "officials": [
     {
      "id": "314589",
@@ -6120,39 +6120,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "373845",
-     "country": "ESP",
-     "role": "fourth",
-     "name": {
-      "en": "Alejandro HERNANDEZ",
-      "fr": "Alejandro HERNANDEZ",
-      "zh": "Alejandro HERNANDEZ",
-      "ar": "Alejandro HERNANDEZ",
-      "es": "Alejandro HERNANDEZ",
-      "de": "Alejandro HERNANDEZ",
-      "pt": "Alejandro HERNANDEZ",
-      "it": "Alejandro HERNANDEZ",
-      "ja": "Alejandro HERNANDEZ",
-      "ko": "Alejandro HERNANDEZ",
-      "id": "Alejandro HERNANDEZ",
-      "ru": "Alejandro HERNANDEZ"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -6163,22 +6130,22 @@
    "group": null,
    "date": "2026-07-03T18:00:00Z",
    "venueId": "400257526",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "129'",
    "home": {
     "code": "AUS",
-    "score": null,
-    "pen": null
+    "score": 1,
+    "pen": 2
    },
    "away": {
     "code": "EGY",
-    "score": null,
-    "pen": null
+    "score": 1,
+    "pen": 4
    },
    "phA": "2D",
    "phB": "2G",
-   "winner": null,
-   "attendance": null,
+   "winner": "EGY",
+   "attendance": 70244,
    "officials": [
     {
      "id": "408669",
@@ -6238,7 +6205,74 @@
    "phB": "W77",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "360687",
+     "country": "UZB",
+     "role": "referee",
+     "name": {
+      "en": "Ilgiz TANTASHEV",
+      "fr": "Ilgiz TANTASHEV",
+      "zh": "Ilgiz TANTASHEV",
+      "ar": "Ilgiz TANTASHEV",
+      "es": "Ilgiz TANTASHEV",
+      "de": "Ilgiz TANTASHEV",
+      "pt": "Ilgiz TANTASHEV",
+      "it": "Ilgiz TANTASHEV",
+      "ja": "Ilgiz TANTASHEV",
+      "ko": "Ilgiz TANTASHEV",
+      "id": "Ilgiz TANTASHEV",
+      "ru": "Ilgiz TANTASHEV"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    },
+    {
+     "id": "361083",
+     "country": "QAT",
+     "role": "fourth",
+     "name": {
+      "en": "Abdulrahman ALJASSIM",
+      "fr": "Abdulrahman ALJASSIM",
+      "zh": "Abdulrahman ALJASSIM",
+      "ar": "Abdulrahman ALJASSIM",
+      "es": "Abdulrahman ALJASSIM",
+      "de": "Abdulrahman ALJASSIM",
+      "pt": "Abdulrahman ALJASSIM",
+      "it": "Abdulrahman ALJASSIM",
+      "ja": "Abdulrahman ALJASSIM",
+      "ko": "Abdulrahman ALJASSIM",
+      "id": "Abdulrahman ALJASSIM",
+      "ru": "Abdulrahman ALJASSIM"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021530",
@@ -6263,7 +6297,74 @@
    "phB": "W75",
    "winner": null,
    "attendance": null,
-   "officials": []
+   "officials": [
+    {
+     "id": "347710",
+     "country": "ENG",
+     "role": "referee",
+     "name": {
+      "en": "Michael OLIVER",
+      "fr": "Michael OLIVER",
+      "zh": "Michael OLIVER",
+      "ar": "Michael OLIVER",
+      "es": "Michael OLIVER",
+      "de": "Michael OLIVER",
+      "pt": "Michael OLIVER",
+      "it": "Michael OLIVER",
+      "ja": "Michael OLIVER",
+      "ko": "Michael OLIVER",
+      "id": "Michael OLIVER",
+      "ru": "Michael OLIVER"
+     },
+     "typeName": {
+      "en": "Referee",
+      "fr": "Arbitre",
+      "zh": "裁判员",
+      "ar": "الحَكم",
+      "es": "Árbitro/a",
+      "de": "Schiedsrichter",
+      "pt": "Árbitro",
+      "it": "Arbitro",
+      "ja": "主審",
+      "ko": "주심",
+      "id": "Wasit",
+      "ru": "Главный судья"
+     }
+    },
+    {
+     "id": "327159",
+     "country": "NED",
+     "role": "fourth",
+     "name": {
+      "en": "Danny MAKKELIE",
+      "fr": "Danny MAKKELIE",
+      "zh": "Danny MAKKELIE",
+      "ar": "Danny MAKKELIE",
+      "es": "Danny MAKKELIE",
+      "de": "Danny MAKKELIE",
+      "pt": "Danny MAKKELIE",
+      "it": "Danny MAKKELIE",
+      "ja": "Danny MAKKELIE",
+      "ko": "Danny MAKKELIE",
+      "id": "Danny MAKKELIE",
+      "ru": "Danny MAKKELIE"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
+    }
+   ]
   },
   {
    "id": "400021532",
@@ -6374,8 +6475,16 @@
    "venueId": "400098290",
    "status": "scheduled",
    "time": null,
-   "home": null,
-   "away": null,
+   "home": {
+    "code": "ARG",
+    "score": null,
+    "pen": null
+   },
+   "away": {
+    "code": "EGY",
+    "score": null,
+    "pen": null
+   },
    "phA": "W86",
    "phB": "W88",
    "winner": null,
@@ -6391,8 +6500,16 @@
    "venueId": "400248370",
    "status": "scheduled",
    "time": null,
-   "home": null,
-   "away": null,
+   "home": {
+    "code": "SUI",
+    "score": null,
+    "pen": null
+   },
+   "away": {
+    "code": "COL",
+    "score": null,
+    "pen": null
+   },
    "phA": "W85",
    "phB": "W87",
    "winner": null,
