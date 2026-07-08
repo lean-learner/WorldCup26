@@ -6672,6 +6672,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "348147",
+     "country": "GER",
+     "role": "fourth",
+     "name": {
+      "en": "Felix ZWAYER",
+      "fr": "Felix ZWAYER",
+      "zh": "Felix ZWAYER",
+      "ar": "Felix ZWAYER",
+      "es": "Felix ZWAYER",
+      "de": "Felix ZWAYER",
+      "pt": "Felix ZWAYER",
+      "it": "Felix ZWAYER",
+      "ja": "Felix ZWAYER",
+      "ko": "Felix ZWAYER",
+      "id": "Felix ZWAYER",
+      "ru": "Felix ZWAYER"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -6731,6 +6764,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "408417",
+     "country": "GAB",
+     "role": "fourth",
+     "name": {
+      "en": "Pierre ATCHO",
+      "fr": "Pierre ATCHO",
+      "zh": "Pierre ATCHO",
+      "ar": "Pierre ATCHO",
+      "es": "Pierre ATCHO",
+      "de": "Pierre ATCHO",
+      "pt": "Pierre ATCHO",
+      "it": "Pierre ATCHO",
+      "ja": "Pierre ATCHO",
+      "ko": "Pierre ATCHO",
+      "id": "Pierre ATCHO",
+      "ru": "Pierre ATCHO"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -6741,22 +6807,22 @@
    "group": null,
    "date": "2026-07-07T16:00:00Z",
    "venueId": "400098290",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "102'",
    "home": {
     "code": "ARG",
-    "score": null,
+    "score": 3,
     "pen": null
    },
    "away": {
     "code": "EGY",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "phA": "W86",
    "phB": "W88",
-   "winner": null,
-   "attendance": null,
+   "winner": "ARG",
+   "attendance": 68239,
    "officials": [
     {
      "id": "399029",
@@ -6790,39 +6856,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "400227",
-     "country": "NOR",
-     "role": "fourth",
-     "name": {
-      "en": "Espen ESKAS",
-      "fr": "Espen ESKAS",
-      "zh": "Espen ESKAS",
-      "ar": "Espen ESKAS",
-      "es": "Espen ESKAS",
-      "de": "Espen ESKAS",
-      "pt": "Espen ESKAS",
-      "it": "Espen ESKAS",
-      "ja": "Espen ESKAS",
-      "ko": "Espen ESKAS",
-      "id": "Espen ESKAS",
-      "ru": "Espen ESKAS"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -6833,22 +6866,22 @@
    "group": null,
    "date": "2026-07-07T20:00:00Z",
    "venueId": "400248370",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "130'",
    "home": {
     "code": "SUI",
-    "score": null,
-    "pen": null
+    "score": 0,
+    "pen": 4
    },
    "away": {
     "code": "COL",
-    "score": null,
-    "pen": null
+    "score": 0,
+    "pen": 3
    },
    "phA": "W85",
    "phB": "W87",
-   "winner": null,
-   "attendance": null,
+   "winner": "SUI",
+   "attendance": 52497,
    "officials": [
     {
      "id": "408378",
@@ -6881,39 +6914,6 @@
       "ko": "주심",
       "id": "Wasit",
       "ru": "Главный судья"
-     }
-    },
-    {
-     "id": "416317",
-     "country": "MEX",
-     "role": "fourth",
-     "name": {
-      "en": "Katia GARCIA",
-      "fr": "Katia GARCIA",
-      "zh": "Katia GARCIA",
-      "ar": "Katia GARCIA",
-      "es": "Katia GARCIA",
-      "de": "Katia GARCIA",
-      "pt": "Katia GARCIA",
-      "it": "Katia GARCIA",
-      "ja": "Katia GARCIA",
-      "ko": "Katia GARCIA",
-      "id": "Katia GARCIA",
-      "ru": "Katia GARCIA"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
      }
     }
    ]
@@ -7002,8 +7002,16 @@
    "venueId": "400254717",
    "status": "scheduled",
    "time": null,
-   "home": null,
-   "away": null,
+   "home": {
+    "code": "ARG",
+    "score": null,
+    "pen": null
+   },
+   "away": {
+    "code": "SUI",
+    "score": null,
+    "pen": null
+   },
    "phA": "W95",
    "phB": "W96",
    "winner": null,
