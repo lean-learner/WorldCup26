@@ -7132,6 +7132,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "446932",
+     "country": "BRA",
+     "role": "fourth",
+     "name": {
+      "en": "Ramon ABATTI",
+      "fr": "Ramon ABATTI",
+      "zh": "Ramon ABATTI",
+      "ar": "Ramon ABATTI",
+      "es": "Ramon ABATTI",
+      "de": "Ramon ABATTI",
+      "pt": "Ramon ABATTI",
+      "it": "Ramon ABATTI",
+      "ja": "Ramon ABATTI",
+      "ko": "Ramon ABATTI",
+      "id": "Ramon ABATTI",
+      "ru": "Ramon ABATTI"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -7142,22 +7175,22 @@
    "group": null,
    "date": "2026-07-11T21:00:00Z",
    "venueId": "400257525",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "123'",
    "home": {
     "code": "NOR",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "away": {
     "code": "ENG",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "phA": "W91",
    "phB": "W92",
-   "winner": null,
-   "attendance": null,
+   "winner": "ENG",
+   "attendance": 64478,
    "officials": [
     {
      "id": "314589",
@@ -7191,39 +7224,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "373845",
-     "country": "ESP",
-     "role": "fourth",
-     "name": {
-      "en": "Alejandro HERNANDEZ",
-      "fr": "Alejandro HERNANDEZ",
-      "zh": "Alejandro HERNANDEZ",
-      "ar": "Alejandro HERNANDEZ",
-      "es": "Alejandro HERNANDEZ",
-      "de": "Alejandro HERNANDEZ",
-      "pt": "Alejandro HERNANDEZ",
-      "it": "Alejandro HERNANDEZ",
-      "ja": "Alejandro HERNANDEZ",
-      "ko": "Alejandro HERNANDEZ",
-      "id": "Alejandro HERNANDEZ",
-      "ru": "Alejandro HERNANDEZ"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -7234,22 +7234,22 @@
    "group": null,
    "date": "2026-07-12T01:00:00Z",
    "venueId": "400254717",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "125'",
    "home": {
     "code": "ARG",
-    "score": null,
+    "score": 3,
     "pen": null
    },
    "away": {
     "code": "SUI",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "phA": "W95",
    "phB": "W96",
-   "winner": null,
-   "attendance": null,
+   "winner": "ARG",
+   "attendance": 69045,
    "officials": [
     {
      "id": "392268",
@@ -7282,39 +7282,6 @@
       "ko": "주심",
       "id": "Wasit",
       "ru": "Главный судья"
-     }
-    },
-    {
-     "id": "372930",
-     "country": "CAN",
-     "role": "fourth",
-     "name": {
-      "en": "Drew FISCHER",
-      "fr": "Drew FISCHER",
-      "zh": "Drew FISCHER",
-      "ar": "Drew FISCHER",
-      "es": "Drew FISCHER",
-      "de": "Drew FISCHER",
-      "pt": "Drew FISCHER",
-      "it": "Drew FISCHER",
-      "ja": "Drew FISCHER",
-      "ko": "Drew FISCHER",
-      "id": "Drew FISCHER",
-      "ru": "Drew FISCHER"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
      }
     }
    ]
@@ -7353,8 +7320,16 @@
    "venueId": "400098290",
    "status": "scheduled",
    "time": null,
-   "home": null,
-   "away": null,
+   "home": {
+    "code": "ENG",
+    "score": null,
+    "pen": null
+   },
+   "away": {
+    "code": "ARG",
+    "score": null,
+    "pen": null
+   },
    "phA": "W99",
    "phB": "W100",
    "winner": null,
