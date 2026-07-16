@@ -7408,6 +7408,39 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
+    },
+    {
+     "id": "392336",
+     "country": "SWE",
+     "role": "fourth",
+     "name": {
+      "en": "Glenn NYBERG",
+      "fr": "Glenn NYBERG",
+      "zh": "Glenn NYBERG",
+      "ar": "Glenn NYBERG",
+      "es": "Glenn NYBERG",
+      "de": "Glenn NYBERG",
+      "pt": "Glenn NYBERG",
+      "it": "Glenn NYBERG",
+      "ja": "Glenn NYBERG",
+      "ko": "Glenn NYBERG",
+      "id": "Glenn NYBERG",
+      "ru": "Glenn NYBERG"
+     },
+     "typeName": {
+      "en": "Fourth official",
+      "fr": "Quatrième arbitre",
+      "zh": "第四官员",
+      "ar": "الحَكَم الرابع",
+      "es": "Cuarto/a árbitro/a",
+      "de": "Vierter Offizieller",
+      "pt": "Quarto árbitro",
+      "it": "Quarto arbitro",
+      "ja": "第 4 審判員",
+      "ko": "대기심",
+      "id": "Ofisial keempat",
+      "ru": "Четвертый судья"
+     }
     }
    ]
   },
@@ -7418,21 +7451,21 @@
    "group": null,
    "date": "2026-07-15T19:00:00Z",
    "venueId": "400098290",
-   "status": "scheduled",
-   "time": null,
+   "status": "finished",
+   "time": "102'",
    "home": {
     "code": "ENG",
-    "score": null,
+    "score": 1,
     "pen": null
    },
    "away": {
     "code": "ARG",
-    "score": null,
+    "score": 2,
     "pen": null
    },
    "phA": "W99",
    "phB": "W100",
-   "winner": null,
+   "winner": "ARG",
    "attendance": null,
    "officials": [
     {
@@ -7467,39 +7500,6 @@
       "id": "Wasit",
       "ru": "Главный судья"
      }
-    },
-    {
-     "id": "415965",
-     "country": "ITA",
-     "role": "fourth",
-     "name": {
-      "en": "Maurizio MARIANI",
-      "fr": "Maurizio MARIANI",
-      "zh": "Maurizio MARIANI",
-      "ar": "Maurizio MARIANI",
-      "es": "Maurizio MARIANI",
-      "de": "Maurizio MARIANI",
-      "pt": "Maurizio MARIANI",
-      "it": "Maurizio MARIANI",
-      "ja": "Maurizio MARIANI",
-      "ko": "Maurizio MARIANI",
-      "id": "Maurizio MARIANI",
-      "ru": "Maurizio MARIANI"
-     },
-     "typeName": {
-      "en": "Fourth official",
-      "fr": "Quatrième arbitre",
-      "zh": "第四官员",
-      "ar": "الحَكَم الرابع",
-      "es": "Cuarto/a árbitro/a",
-      "de": "Vierter Offizieller",
-      "pt": "Quarto árbitro",
-      "it": "Quarto arbitro",
-      "ja": "第 4 審判員",
-      "ko": "대기심",
-      "id": "Ofisial keempat",
-      "ru": "Четвертый судья"
-     }
     }
    ]
   },
@@ -7517,7 +7517,11 @@
     "score": null,
     "pen": null
    },
-   "away": null,
+   "away": {
+    "code": "ENG",
+    "score": null,
+    "pen": null
+   },
    "phA": "RU101",
    "phB": "RU102",
    "winner": null,
@@ -7538,7 +7542,11 @@
     "score": null,
     "pen": null
    },
-   "away": null,
+   "away": {
+    "code": "ARG",
+    "score": null,
+    "pen": null
+   },
    "phA": "W101",
    "phB": "W102",
    "winner": null,
